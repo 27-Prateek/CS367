@@ -7,7 +7,7 @@ import math
 MATFILE = "scrambled_lena.mat"
 TILES = 4
 ORIENTS = 8
-SEED = 111
+SEED = 77
 T0 = 50000.0
 TMIN = 1e-16
 COOL = 0.999994
@@ -101,11 +101,11 @@ def anneal(start):
     T = T0
     score_progress = []
     unchanged_count = 0
-    intervals = ITER//5  # print every 1/5th of total iterations
+    intervals = ITER//10  # print every 1/5th of total iterations
 
     for t in range(1, ITER + 1):
         g2 = grid.copy()
-        act = random.choices(['swap', 'rotate', 'remap'], [0.5, 0.4, 0.1])[0]
+        act = random.choices(['swap', 'rotate', 'remap'], [0.6, 0.3, 0.1])[0]
         if act == 'swap':
             if random.random() < 0.2:
                 r1, r2 = np.random.randint(0, TILES, 2)
@@ -141,7 +141,7 @@ def anneal(start):
         if t % intervals == 0:
             print(f"Iter {t}/{ITER}, current best score {min_score:.1f}")
             score_progress.append(min_score)
-            if len(score_progress) >= 4 and all(score_progress[-1] == score_progress[-i] for i in range(2, 5)):
+            if len(score_progress) >= 3 and all(score_progress[-1] == score_progress[-i] for i in range(2, 3)):
                 print(f"No best score improvement in 3 checks, stopping early at {t}/{ITER}")
                 break
     return best, min_score

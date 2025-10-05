@@ -1,0 +1,108 @@
+
+For n=10, m=20
+Instance 0, h1, Hill-Climbing: solved=True, steps=2, penetrance=0.1000
+Instance 0, h1, Beam-3: solved=True, steps=1, penetrance=0.0333
+Instance 0, h1, Beam-4: solved=True, steps=1, penetrance=0.0250
+Instance 0, h1, VND: solved=True, steps=2, penetrance=0.0180
+Instance 0, h2, Hill-Climbing: solved=False, steps=493, penetrance=0.1000
+Instance 0, h2, Beam-3: solved=False, steps=1000, penetrance=0.0333
+Instance 0, h2, Beam-4: solved=False, steps=1000, penetrance=0.0250
+Instance 0, h2, VND: solved=False, steps=65, penetrance=0.0180
+Instance 1, h1, Hill-Climbing: solved=True, steps=3, penetrance=0.1000
+Instance 1, h1, Beam-3: solved=True, steps=2, penetrance=0.0333
+Instance 1, h1, Beam-4: solved=True, steps=1, penetrance=0.0250
+Instance 1, h1, VND: solved=True, steps=3, penetrance=0.0180
+Instance 1, h2, Hill-Climbing: solved=False, steps=592, penetrance=0.1000
+Instance 1, h2, Beam-3: solved=False, steps=1000, penetrance=0.0333
+Instance 1, h2, Beam-4: solved=False, steps=1000, penetrance=0.0250
+Instance 1, h2, VND: solved=False, steps=78, penetrance=0.0180
+
+For n=10, m=40
+Instance 0, h1, Hill-Climbing: solved=False, steps=265, penetrance=0.1000
+Instance 0, h1, Beam-3: solved=False, steps=1000, penetrance=0.0333
+Instance 0, h1, Beam-4: solved=False, steps=1000, penetrance=0.0250
+Instance 0, h1, VND: solved=False, steps=62, penetrance=0.0180
+Instance 0, h2, Hill-Climbing: solved=False, steps=441, penetrance=0.1000
+Instance 0, h2, Beam-3: solved=False, steps=1000, penetrance=0.0333
+Instance 0, h2, Beam-4: solved=False, steps=1000, penetrance=0.0250
+Instance 0, h2, VND: solved=False, steps=59, penetrance=0.0180
+Instance 1, h1, Hill-Climbing: solved=True, steps=3, penetrance=0.1000
+Instance 1, h1, Beam-3: solved=True, steps=4, penetrance=0.0333
+Instance 1, h1, Beam-4: solved=False, steps=1000, penetrance=0.0250
+Instance 1, h1, VND: solved=True, steps=24, penetrance=0.0180
+Instance 1, h2, Hill-Climbing: solved=False, steps=586, penetrance=0.1000
+Instance 1, h2, Beam-3: solved=False, steps=1000, penetrance=0.0333
+Instance 1, h2, Beam-4: solved=False, steps=1000, penetrance=0.0250
+Instance 1, h2, VND: solved=False, steps=81, penetrance=0.0180
+
+For n=10, m=60
+Instance 0, h1, Hill-Climbing: solved=True, steps=11, penetrance=0.1000
+Instance 0, h1, Beam-3: solved=True, steps=4, penetrance=0.0333
+Instance 0, h1, Beam-4: solved=False, steps=1000, penetrance=0.0250
+Instance 0, h1, VND: solved=True, steps=13, penetrance=0.0180
+Instance 0, h2, Hill-Climbing: solved=False, steps=551, penetrance=0.1000
+Instance 0, h2, Beam-3: solved=False, steps=1000, penetrance=0.0333
+Instance 0, h2, Beam-4: solved=False, steps=1000, penetrance=0.0250
+Instance 0, h2, VND: solved=False, steps=73, penetrance=0.0180
+Instance 1, h1, Hill-Climbing: solved=False, steps=389, penetrance=0.1000
+Instance 1, h1, Beam-3: solved=False, steps=1000, penetrance=0.0333
+Instance 1, h1, Beam-4: solved=False, steps=1000, penetrance=0.0250
+Instance 1, h1, VND: solved=False, steps=74, penetrance=0.0180
+Instance 1, h2, Hill-Climbing: solved=False, steps=624, penetrance=0.1000
+Instance 1, h2, Beam-3: solved=False, steps=1000, penetrance=0.0333
+Instance 1, h2, Beam-4: solved=False, steps=1000, penetrance=0.0250
+Instance 1, h2, VND: solved=False, steps=74, penetrance=0.0180
+
+For n=20, m=40
+Instance 0, h1, Hill-Climbing: solved=True, steps=5, penetrance=0.0500
+Instance 0, h1, Beam-3: solved=True, steps=3, penetrance=0.0167
+Instance 0, h1, Beam-4: solved=True, steps=2, penetrance=0.0125
+Instance 0, h1, VND: solved=True, steps=5, penetrance=0.0023
+Instance 0, h2, Hill-Climbing: solved=False, steps=1023, penetrance=0.0500
+Instance 0, h2, Beam-3: solved=False, steps=1000, penetrance=0.0167
+Instance 0, h2, Beam-4: solved=False, steps=1000, penetrance=0.0125
+Instance 0, h2, VND: solved=False, steps=129, penetrance=0.0022
+Instance 1, h1, Hill-Climbing: solved=True, steps=5, penetrance=0.0500
+Instance 1, h1, Beam-3: solved=True, steps=5, penetrance=0.0167
+Instance 1, h1, Beam-4: solved=True, steps=3, penetrance=0.0125
+Instance 1, h1, VND: solved=True, steps=4, penetrance=0.0022
+Instance 1, h2, Hill-Climbing: solved=False, steps=989, penetrance=0.0500
+Instance 1, h2, Beam-3: solved=False, steps=1000, penetrance=0.0167
+Instance 1, h2, Beam-4: solved=False, steps=1000, penetrance=0.0125
+Instance 1, h2, VND: solved=False, steps=110, penetrance=0.0022
+
+For n=20, m=80
+Instance 0, h1, Hill-Climbing: solved=True, steps=160, penetrance=0.0500
+Instance 0, h1, Beam-3: solved=False, steps=1000, penetrance=0.0167
+Instance 0, h1, Beam-4: solved=True, steps=7, penetrance=0.0125
+Instance 0, h1, VND: solved=True, steps=9, penetrance=0.0022
+Instance 0, h2, Hill-Climbing: solved=False, steps=846, penetrance=0.0500
+Instance 0, h2, Beam-3: solved=False, steps=1000, penetrance=0.0167
+Instance 0, h2, Beam-4: solved=False, steps=1000, penetrance=0.0125
+Instance 0, h2, VND: solved=False, steps=105, penetrance=0.0022
+Instance 1, h1, Hill-Climbing: solved=True, steps=9, penetrance=0.0500
+Instance 1, h1, Beam-3: solved=True, steps=5, penetrance=0.0167
+Instance 1, h1, Beam-4: solved=True, steps=8, penetrance=0.0125
+Instance 1, h1, VND: solved=True, steps=9, penetrance=0.0022
+Instance 1, h2, Hill-Climbing: solved=False, steps=853, penetrance=0.0500
+Instance 1, h2, Beam-3: solved=False, steps=1000, penetrance=0.0167
+Instance 1, h2, Beam-4: solved=False, steps=1000, penetrance=0.0125
+Instance 1, h2, VND: solved=False, steps=97, penetrance=0.0023
+
+For n=20, m=120
+Instance 0, h1, Hill-Climbing: solved=False, steps=561, penetrance=0.0500
+Instance 0, h1, Beam-3: solved=False, steps=1000, penetrance=0.0167
+Instance 0, h1, Beam-4: solved=False, steps=1000, penetrance=0.0125
+Instance 0, h1, VND: solved=False, steps=95, penetrance=0.0022
+Instance 0, h2, Hill-Climbing: solved=False, steps=1043, penetrance=0.0500
+Instance 0, h2, Beam-3: solved=False, steps=1000, penetrance=0.0167
+Instance 0, h2, Beam-4: solved=False, steps=1000, penetrance=0.0125
+Instance 0, h2, VND: solved=False, steps=127, penetrance=0.0022
+Instance 1, h1, Hill-Climbing: solved=False, steps=613, penetrance=0.0500
+Instance 1, h1, Beam-3: solved=False, steps=1000, penetrance=0.0167
+Instance 1, h1, Beam-4: solved=False, steps=1000, penetrance=0.0125
+Instance 1, h1, VND: solved=False, steps=108, penetrance=0.0022
+Instance 1, h2, Hill-Climbing: solved=False, steps=1029, penetrance=0.0500
+Instance 1, h2, Beam-3: solved=False, steps=1000, penetrance=0.0167
+Instance 1, h2, Beam-4: solved=False, steps=1000, penetrance=0.0125
+Instance 1, h2, VND: solved=False, steps=111, penetrance=0.0022
