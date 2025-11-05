@@ -14,19 +14,19 @@ config.embedding_size = 512
 config.sample_rate = 0.3
 config.fp16 = False
 config.weight_decay = 0.05
-config.batch_size = 512
+config.batch_size = 16
 config.optimizer = "adamw"
 config.lr = 3e-3
 config.verbose = 2000
-config.dali = True 
-config.dali_aug = True
+config.dali = False
+config.dali_aug = False
 
-config.num_workers = 6
+config.num_workers = 3
 
-config.rec = "data/webface12m"
+config.rec = "data/webface4m"
 config.num_classes = 617970
 config.num_image = 12720066
-config.num_epoch = 100
+config.num_epoch = 10
 config.warmup_epoch = 2
 config.val_targets = []
 

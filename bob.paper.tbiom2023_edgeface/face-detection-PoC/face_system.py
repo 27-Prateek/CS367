@@ -268,8 +268,7 @@ def check_face(model):
             print(f"✗ Error loading {pkl_file}: {e}")
     
     print(f"✓ Loaded {len(registered_embeddings)} registered face(s)")
-    print(f"  Registered students: {', '.join(registered_embeddings.keys())}")
-    
+
     # Capture from webcam
     pil_image = capture_from_webcam()
     if pil_image is None:
