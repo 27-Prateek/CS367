@@ -1,0 +1,282 @@
+PS C:\Users\Lenovo\Desktop\programming\AI\LABS\lab8> python gbike_mdp.py
+Policy evaluation started...
+Policy evaluation iteration 1, max delta='175.1611' in 0.11 seconds
+Policy evaluation iteration 2, max delta='121.2680' in 0.11 seconds
+Policy evaluation iteration 3, max delta='83.2456' in 0.10 seconds
+Policy evaluation iteration 4, max delta='65.0053' in 0.11 seconds
+Policy evaluation iteration 5, max delta='50.2275' in 0.11 seconds
+Policy evaluation iteration 6, max delta='37.9608' in 0.10 seconds
+Policy evaluation iteration 7, max delta='29.3432' in 0.13 seconds
+Policy evaluation iteration 8, max delta='25.6128' in 0.13 seconds
+Policy evaluation iteration 9, max delta='22.2323' in 0.11 seconds
+Policy evaluation iteration 10, max delta='19.2235' in 0.10 seconds
+Policy evaluation iteration 11, max delta='16.5757' in 0.10 seconds
+Policy evaluation iteration 12, max delta='14.2630' in 0.10 seconds
+Policy evaluation iteration 13, max delta='12.2535' in 0.11 seconds
+Policy evaluation iteration 14, max delta='10.5137' in 0.10 seconds
+Policy evaluation iteration 15, max delta='9.0117' in 0.09 seconds
+Policy evaluation iteration 16, max delta='7.7176' in 0.10 seconds
+Policy evaluation iteration 17, max delta='6.6045' in 0.11 seconds
+Policy evaluation iteration 18, max delta='5.6483' in 0.10 seconds
+Policy evaluation iteration 19, max delta='4.8278' in 0.12 seconds
+Policy evaluation iteration 20, max delta='4.1243' in 0.10 seconds
+Policy evaluation iteration 21, max delta='3.5217' in 0.12 seconds
+Policy evaluation iteration 22, max delta='3.0059' in 0.10 seconds
+Policy evaluation iteration 23, max delta='2.5646' in 0.10 seconds
+Policy evaluation iteration 24, max delta='2.1873' in 0.10 seconds
+Policy evaluation iteration 25, max delta='1.8648' in 0.10 seconds
+Policy evaluation iteration 26, max delta='1.5894' in 0.12 seconds
+Policy evaluation iteration 27, max delta='1.3543' in 0.10 seconds
+Policy evaluation iteration 28, max delta='1.1536' in 0.12 seconds
+Policy evaluation iteration 29, max delta='0.9825' in 0.11 seconds
+Policy evaluation iteration 30, max delta='0.8365' in 0.10 seconds
+Policy evaluation iteration 31, max delta='0.7120' in 0.11 seconds
+Policy evaluation iteration 32, max delta='0.6060' in 0.11 seconds
+Policy evaluation iteration 33, max delta='0.5156' in 0.10 seconds
+Policy evaluation iteration 34, max delta='0.4386' in 0.09 seconds
+Policy evaluation iteration 35, max delta='0.3731' in 0.10 seconds
+Policy evaluation iteration 36, max delta='0.3173' in 0.13 seconds
+Policy evaluation iteration 37, max delta='0.2698' in 0.11 seconds
+Policy evaluation iteration 38, max delta='0.2293' in 0.09 seconds
+Policy evaluation iteration 39, max delta='0.1950' in 0.11 seconds
+Policy evaluation iteration 40, max delta='0.1657' in 0.12 seconds
+Policy evaluation iteration 41, max delta='0.1408' in 0.11 seconds
+Policy evaluation iteration 42, max delta='0.1197' in 0.10 seconds
+Policy evaluation iteration 43, max delta='0.1017' in 0.10 seconds
+Policy evaluation iteration 44, max delta='0.0864' in 0.11 seconds
+Policy evaluation iteration 45, max delta='0.0734' in 0.09 seconds
+Policy evaluation iteration 46, max delta='0.0623' in 0.11 seconds
+Policy evaluation iteration 47, max delta='0.0529' in 0.10 seconds
+Policy evaluation iteration 48, max delta='0.0449' in 0.10 seconds
+Policy evaluation iteration 49, max delta='0.0382' in 0.10 seconds
+Policy evaluation iteration 50, max delta='0.0324' in 0.10 seconds
+Policy evaluation iteration 51, max delta='0.0275' in 0.11 seconds
+Policy evaluation iteration 52, max delta='0.0234' in 0.14 seconds
+Policy evaluation iteration 53, max delta='0.0198' in 0.10 seconds
+Policy evaluation iteration 54, max delta='0.0168' in 0.11 seconds
+Policy evaluation iteration 55, max delta='0.0143' in 0.12 seconds
+Policy evaluation iteration 56, max delta='0.0121' in 0.10 seconds
+Policy evaluation iteration 57, max delta='0.0103' in 0.12 seconds
+Policy evaluation iteration 58, max delta='0.0087' in 0.12 seconds
+Policy evaluation iteration 59, max delta='0.0074' in 0.11 seconds
+Policy evaluation iteration 60, max delta='0.0063' in 0.10 seconds
+Policy evaluation iteration 61, max delta='0.0053' in 0.10 seconds
+Policy evaluation iteration 62, max delta='0.0045' in 0.10 seconds
+Policy evaluation iteration 63, max delta='0.0038' in 0.12 seconds
+Policy evaluation iteration 64, max delta='0.0033' in 0.11 seconds
+Policy evaluation iteration 65, max delta='0.0028' in 0.10 seconds
+Policy evaluation iteration 66, max delta='0.0023' in 0.10 seconds
+Policy evaluation iteration 67, max delta='0.0020' in 0.12 seconds
+Policy evaluation iteration 68, max delta='0.0017' in 0.11 seconds
+Policy evaluation iteration 69, max delta='0.0014' in 0.10 seconds
+Policy evaluation iteration 70, max delta='0.0012' in 0.10 seconds
+Policy evaluation iteration 71, max delta='0.0010' in 0.12 seconds
+Policy evaluation iteration 72, max delta='0.0009' in 0.12 seconds
+Policy evaluation iteration 73, max delta='0.0007' in 0.11 seconds
+Policy evaluation iteration 74, max delta='0.0006' in 0.10 seconds
+Policy evaluation iteration 75, max delta='0.0005' in 0.12 seconds
+Policy evaluation iteration 76, max delta='0.0005' in 0.12 seconds
+Policy evaluation iteration 77, max delta='0.0004' in 0.10 seconds
+Policy evaluation iteration 78, max delta='0.0003' in 0.12 seconds
+Policy evaluation iteration 79, max delta='0.0003' in 0.10 seconds
+Policy evaluation iteration 80, max delta='0.0002' in 0.12 seconds
+Policy evaluation iteration 81, max delta='0.0002' in 0.10 seconds
+Policy evaluation iteration 82, max delta='0.0002' in 0.11 seconds
+Policy evaluation iteration 83, max delta='0.0001' in 0.10 seconds
+Policy evaluation iteration 84, max delta='0.0001' in 0.12 seconds
+Policy evaluation iteration 85, max delta='0.0001' in 0.10 seconds
+Policy evaluation iteration 86, max delta='0.0001' in 0.11 seconds
+Policy evaluation completed.
+Policy improvement started...
+Policy improvement completed in 0.93 seconds.
+Policy iteration 1 completed.
+Policy evaluation started...
+Policy evaluation iteration 1, max delta='104.4938' in 0.13 seconds
+Policy evaluation iteration 2, max delta='6.8632' in 0.12 seconds
+Policy evaluation iteration 3, max delta='3.2754' in 0.11 seconds
+Policy evaluation iteration 4, max delta='2.5698' in 0.09 seconds
+Policy evaluation iteration 5, max delta='1.9984' in 0.13 seconds
+Policy evaluation iteration 6, max delta='1.6810' in 0.09 seconds
+Policy evaluation iteration 7, max delta='1.4506' in 0.10 seconds
+Policy evaluation iteration 8, max delta='1.2457' in 0.11 seconds
+Policy evaluation iteration 9, max delta='1.0671' in 0.11 seconds
+Policy evaluation iteration 10, max delta='0.9128' in 0.10 seconds
+Policy evaluation iteration 11, max delta='0.7802' in 0.12 seconds
+Policy evaluation iteration 12, max delta='0.6665' in 0.12 seconds
+Policy evaluation iteration 13, max delta='0.5693' in 0.11 seconds
+Policy evaluation iteration 14, max delta='0.4861' in 0.09 seconds
+Policy evaluation iteration 15, max delta='0.4151' in 0.10 seconds
+Policy evaluation iteration 16, max delta='0.3544' in 0.10 seconds
+Policy evaluation iteration 17, max delta='0.3026' in 0.09 seconds
+Policy evaluation iteration 18, max delta='0.2583' in 0.13 seconds
+Policy evaluation iteration 19, max delta='0.2206' in 0.12 seconds
+Policy evaluation iteration 20, max delta='0.1883' in 0.10 seconds
+Policy evaluation iteration 21, max delta='0.1608' in 0.10 seconds
+Policy evaluation iteration 22, max delta='0.1373' in 0.11 seconds
+Policy evaluation iteration 23, max delta='0.1172' in 0.10 seconds
+Policy evaluation iteration 24, max delta='0.1000' in 0.10 seconds
+Policy evaluation iteration 25, max delta='0.0854' in 0.10 seconds
+Policy evaluation iteration 26, max delta='0.0729' in 0.10 seconds
+Policy evaluation iteration 27, max delta='0.0623' in 0.11 seconds
+Policy evaluation iteration 28, max delta='0.0532' in 0.10 seconds
+Policy evaluation iteration 29, max delta='0.0454' in 0.11 seconds
+Policy evaluation iteration 30, max delta='0.0387' in 0.11 seconds
+Policy evaluation iteration 31, max delta='0.0331' in 0.10 seconds
+Policy evaluation iteration 32, max delta='0.0282' in 0.10 seconds
+Policy evaluation iteration 33, max delta='0.0241' in 0.10 seconds
+Policy evaluation iteration 34, max delta='0.0206' in 0.11 seconds
+Policy evaluation iteration 35, max delta='0.0176' in 0.11 seconds
+Policy evaluation iteration 36, max delta='0.0150' in 0.10 seconds
+Policy evaluation iteration 37, max delta='0.0128' in 0.11 seconds
+Policy evaluation iteration 38, max delta='0.0109' in 0.10 seconds
+Policy evaluation iteration 39, max delta='0.0093' in 0.11 seconds
+Policy evaluation iteration 40, max delta='0.0080' in 0.11 seconds
+Policy evaluation iteration 41, max delta='0.0068' in 0.10 seconds
+Policy evaluation iteration 42, max delta='0.0058' in 0.11 seconds
+Policy evaluation iteration 43, max delta='0.0050' in 0.11 seconds
+Policy evaluation iteration 44, max delta='0.0042' in 0.10 seconds
+Policy evaluation iteration 45, max delta='0.0036' in 0.12 seconds
+Policy evaluation iteration 46, max delta='0.0031' in 0.10 seconds
+Policy evaluation iteration 47, max delta='0.0026' in 0.10 seconds
+Policy evaluation iteration 48, max delta='0.0022' in 0.10 seconds
+Policy evaluation iteration 49, max delta='0.0019' in 0.11 seconds
+Policy evaluation iteration 50, max delta='0.0016' in 0.11 seconds
+Policy evaluation iteration 51, max delta='0.0014' in 0.10 seconds
+Policy evaluation iteration 52, max delta='0.0012' in 0.11 seconds
+Policy evaluation iteration 53, max delta='0.0010' in 0.10 seconds
+Policy evaluation iteration 54, max delta='0.0009' in 0.10 seconds
+Policy evaluation iteration 55, max delta='0.0007' in 0.10 seconds
+Policy evaluation iteration 56, max delta='0.0006' in 0.10 seconds
+Policy evaluation iteration 57, max delta='0.0005' in 0.11 seconds
+Policy evaluation iteration 58, max delta='0.0005' in 0.09 seconds
+Policy evaluation iteration 59, max delta='0.0004' in 0.10 seconds
+Policy evaluation iteration 60, max delta='0.0003' in 0.15 seconds
+Policy evaluation iteration 61, max delta='0.0003' in 0.12 seconds
+Policy evaluation iteration 62, max delta='0.0002' in 0.11 seconds
+Policy evaluation iteration 63, max delta='0.0002' in 0.10 seconds
+Policy evaluation iteration 64, max delta='0.0002' in 0.12 seconds
+Policy evaluation iteration 65, max delta='0.0002' in 0.09 seconds
+Policy evaluation iteration 66, max delta='0.0001' in 0.10 seconds
+Policy evaluation iteration 67, max delta='0.0001' in 0.10 seconds
+Policy evaluation iteration 68, max delta='0.0001' in 0.09 seconds
+Policy evaluation completed.
+Policy improvement started...
+Policy improvement completed in 0.90 seconds.
+Policy iteration 2 completed.
+Policy evaluation started...
+Policy evaluation iteration 1, max delta='13.2390' in 0.10 seconds
+Policy evaluation iteration 2, max delta='7.3309' in 0.11 seconds
+Policy evaluation iteration 3, max delta='3.5930' in 0.12 seconds
+Policy evaluation iteration 4, max delta='1.7839' in 0.10 seconds
+Policy evaluation iteration 5, max delta='0.9595' in 0.10 seconds
+Policy evaluation iteration 6, max delta='0.5888' in 0.10 seconds
+Policy evaluation iteration 7, max delta='0.3797' in 0.11 seconds
+Policy evaluation iteration 8, max delta='0.2419' in 0.10 seconds
+Policy evaluation iteration 9, max delta='0.1577' in 0.10 seconds
+Policy evaluation iteration 10, max delta='0.1088' in 0.10 seconds
+Policy evaluation iteration 11, max delta='0.0935' in 0.10 seconds
+Policy evaluation iteration 12, max delta='0.0802' in 0.11 seconds
+Policy evaluation iteration 13, max delta='0.0687' in 0.11 seconds
+Policy evaluation iteration 14, max delta='0.0588' in 0.10 seconds
+Policy evaluation iteration 15, max delta='0.0503' in 0.11 seconds
+Policy evaluation iteration 16, max delta='0.0431' in 0.10 seconds
+Policy evaluation iteration 17, max delta='0.0368' in 0.10 seconds
+Policy evaluation iteration 18, max delta='0.0315' in 0.10 seconds
+Policy evaluation iteration 19, max delta='0.0270' in 0.12 seconds
+Policy evaluation iteration 20, max delta='0.0231' in 0.11 seconds
+Policy evaluation iteration 21, max delta='0.0197' in 0.11 seconds
+Policy evaluation iteration 22, max delta='0.0169' in 0.11 seconds
+Policy evaluation iteration 23, max delta='0.0144' in 0.09 seconds
+Policy evaluation iteration 24, max delta='0.0123' in 0.09 seconds
+Policy evaluation iteration 25, max delta='0.0105' in 0.11 seconds
+Policy evaluation iteration 26, max delta='0.0090' in 0.11 seconds
+Policy evaluation iteration 27, max delta='0.0077' in 0.12 seconds
+Policy evaluation iteration 28, max delta='0.0066' in 0.11 seconds
+Policy evaluation iteration 29, max delta='0.0056' in 0.12 seconds
+Policy evaluation iteration 30, max delta='0.0048' in 0.11 seconds
+Policy evaluation iteration 31, max delta='0.0041' in 0.11 seconds
+Policy evaluation iteration 32, max delta='0.0035' in 0.10 seconds
+Policy evaluation iteration 33, max delta='0.0030' in 0.10 seconds
+Policy evaluation iteration 34, max delta='0.0026' in 0.11 seconds
+Policy evaluation iteration 35, max delta='0.0022' in 0.09 seconds
+Policy evaluation iteration 36, max delta='0.0019' in 0.11 seconds
+Policy evaluation iteration 37, max delta='0.0016' in 0.12 seconds
+Policy evaluation iteration 38, max delta='0.0014' in 0.10 seconds
+Policy evaluation iteration 39, max delta='0.0012' in 0.14 seconds
+Policy evaluation iteration 40, max delta='0.0010' in 0.12 seconds
+Policy evaluation iteration 41, max delta='0.0009' in 0.12 seconds
+Policy evaluation iteration 42, max delta='0.0007' in 0.11 seconds
+Policy evaluation iteration 43, max delta='0.0006' in 0.10 seconds
+Policy evaluation iteration 44, max delta='0.0005' in 0.11 seconds
+Policy evaluation iteration 45, max delta='0.0005' in 0.10 seconds
+Policy evaluation iteration 46, max delta='0.0004' in 0.10 seconds
+Policy evaluation iteration 47, max delta='0.0003' in 0.11 seconds
+Policy evaluation iteration 48, max delta='0.0003' in 0.12 seconds
+Policy evaluation iteration 49, max delta='0.0002' in 0.10 seconds
+Policy evaluation iteration 50, max delta='0.0002' in 0.11 seconds
+Policy evaluation iteration 51, max delta='0.0002' in 0.09 seconds
+Policy evaluation iteration 52, max delta='0.0002' in 0.10 seconds
+Policy evaluation iteration 53, max delta='0.0001' in 0.10 seconds
+Policy evaluation iteration 54, max delta='0.0001' in 0.11 seconds
+Policy evaluation iteration 55, max delta='0.0001' in 0.11 seconds
+Policy evaluation completed.
+Policy improvement started...
+Policy improvement completed in 0.95 seconds.
+Policy iteration 3 completed.
+Policy evaluation started...
+Policy evaluation iteration 1, max delta='3.4338' in 0.11 seconds
+Policy evaluation iteration 2, max delta='0.6891' in 0.11 seconds
+Policy evaluation iteration 3, max delta='0.3966' in 0.10 seconds
+Policy evaluation iteration 4, max delta='0.2015' in 0.09 seconds
+Policy evaluation iteration 5, max delta='0.0953' in 0.10 seconds
+Policy evaluation iteration 6, max delta='0.0505' in 0.10 seconds
+Policy evaluation iteration 7, max delta='0.0273' in 0.10 seconds
+Policy evaluation iteration 8, max delta='0.0146' in 0.11 seconds
+Policy evaluation iteration 9, max delta='0.0078' in 0.10 seconds
+Policy evaluation iteration 10, max delta='0.0043' in 0.10 seconds
+Policy evaluation iteration 11, max delta='0.0024' in 0.11 seconds
+Policy evaluation iteration 12, max delta='0.0015' in 0.10 seconds
+Policy evaluation iteration 13, max delta='0.0013' in 0.10 seconds
+Policy evaluation iteration 14, max delta='0.0011' in 0.10 seconds
+Policy evaluation iteration 15, max delta='0.0009' in 0.10 seconds
+Policy evaluation iteration 16, max delta='0.0008' in 0.09 seconds
+Policy evaluation iteration 17, max delta='0.0007' in 0.10 seconds
+Policy evaluation iteration 18, max delta='0.0006' in 0.09 seconds
+Policy evaluation iteration 19, max delta='0.0005' in 0.09 seconds
+Policy evaluation iteration 20, max delta='0.0004' in 0.09 seconds
+Policy evaluation iteration 21, max delta='0.0004' in 0.10 seconds
+Policy evaluation iteration 22, max delta='0.0003' in 0.11 seconds
+Policy evaluation iteration 23, max delta='0.0003' in 0.12 seconds
+Policy evaluation iteration 24, max delta='0.0002' in 0.11 seconds
+Policy evaluation iteration 25, max delta='0.0002' in 0.10 seconds
+Policy evaluation iteration 26, max delta='0.0002' in 0.10 seconds
+Policy evaluation iteration 27, max delta='0.0001' in 0.10 seconds
+Policy evaluation iteration 28, max delta='0.0001' in 0.10 seconds
+Policy evaluation iteration 29, max delta='0.0001' in 0.12 seconds
+Policy evaluation iteration 30, max delta='0.0001' in 0.13 seconds
+Policy evaluation completed.
+Policy improvement started...
+Policy improvement completed in 0.91 seconds.
+Policy iteration 4 completed.
+Policy evaluation started...
+Policy evaluation iteration 1, max delta='0.3786' in 0.10 seconds
+Policy evaluation iteration 2, max delta='0.0204' in 0.10 seconds
+Policy evaluation iteration 3, max delta='0.0097' in 0.11 seconds
+Policy evaluation iteration 4, max delta='0.0045' in 0.12 seconds
+Policy evaluation iteration 5, max delta='0.0025' in 0.09 seconds
+Policy evaluation iteration 6, max delta='0.0015' in 0.11 seconds
+Policy evaluation iteration 7, max delta='0.0008' in 0.09 seconds
+Policy evaluation iteration 8, max delta='0.0005' in 0.11 seconds
+Policy evaluation iteration 9, max delta='0.0003' in 0.10 seconds
+Policy evaluation iteration 10, max delta='0.0002' in 0.09 seconds
+Policy evaluation iteration 11, max delta='0.0002' in 0.09 seconds
+Policy evaluation iteration 12, max delta='0.0001' in 0.10 seconds
+Policy evaluation iteration 13, max delta='0.0001' in 0.11 seconds
+Policy evaluation iteration 14, max delta='0.0001' in 0.10 seconds
+Policy evaluation iteration 15, max delta='0.0001' in 0.12 seconds
+Policy evaluation completed.
+Policy improvement started...
+Policy improvement completed in 0.92 seconds.
+Policy iteration 5 completed.
+Solution saved to gbike_solution.png
+PS C:\Users\Lenovo\Desktop\programming\AI\LABS\lab8>     
